@@ -1,6 +1,6 @@
 
-.post {
-margin-left:400PX ;
+.post{
+padding-left: 420px;
 width: 550px;
 height: 400px;
 
@@ -8,9 +8,9 @@ height: 400px;
 
 }
 
-.fa-html5 {
+.imagen-html5 {
 
-    margin-top: 10px;
+    margin-top: 20px;
 margin-left: 20;
 font-size: 30px;
 }
@@ -43,17 +43,19 @@ margin-left:10px ;
   
 }
 
-.Post-header img {
-margin-top: 10px;
-  margin-left: 280px;
+.header-trespuntos img{
+    padding-top: 15px;
+    margin-left: 280px;
+    float: right;
+}
 
-    }
+.contenido {
 
-
-
+   text-align: justify;
+}
 
 .POST-IMAGEN img{
-  
+ padding-bottom: 10px;
    position: relative;
 width: 550px;
 height: 300px;
